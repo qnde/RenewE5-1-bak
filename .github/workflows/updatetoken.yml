@@ -68,10 +68,6 @@ jobs:
         MS_TOKEN_9: ${{ secrets.MS_TOKEN_9 }} 
         CLIENT_ID_9: ${{ secrets.CLIENT_ID_9 }}
         CLIENT_SECRET_9: ${{ secrets.CLIENT_SECRET_9 }}
-        #账号/应用10
-        MS_TOKEN_10: ${{ secrets.MS_TOKEN_10 }} 
-        CLIENT_ID_10: ${{ secrets.CLIENT_ID_10 }}
-        CLIENT_SECRET_10: ${{ secrets.CLIENT_SECRET_10 }}
         #如此类推，自己复制增加账号/应用
         MS_TOKEN_n: ${{ secrets.MS_TOKEN_n }} 
         CLIENT_ID_n: ${{ secrets.CLIENT_ID_n }}
